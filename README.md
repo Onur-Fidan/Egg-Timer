@@ -1,1 +1,3 @@
 # Egg-Timer
+
+This is an app which enables users to cook their eggs in three forms, soft, medium, and hard. The users can click the form they want in the app and wait until they hear alarm sound. After the alarm sound, their eggs are ready to eat! They can use the app in silent mode as well. To build the app, I used dictionary, timer, progress bar, and AVAudioPlayer. Dictionary is essential in terms of indicating which form will be cooked in which time. I showed the remaining time with the progress bar. Moreover, in order to have sound functionality in my app, I imported AVAudioPlayer class. I also benefited from timer object to gain timer functionality in my app. Finally, I used if-statements to demonstrate "DONE" inscription in the screen after time is up.
